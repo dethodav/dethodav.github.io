@@ -174,7 +174,7 @@ params:
       enable: true
       title: "Tools used in my research include:"
       items:
-        - "Example"
+        - "Bayesian Statistics"
         - "More"
         - "Test"
         - "Science"
@@ -276,7 +276,7 @@ params:
     items:
       - title: Guiding interferometer improvements with the frequency-dependent inspiral range
         content: Example text
-        image: /images/GW-icon.png
+        image: /images/normalized_range_diff.png
         #featured:
         #  name: Demo
         #  link: https://hugo-profile.netlify.app
@@ -289,7 +289,7 @@ params:
 
       - title: Technical Noise, Data Quality, and Calibration Requirements for Next-Generation Gravitational-Wave Science
         content: Example text
-        image: /images/GW-icon.png
+        image: /images/CE_glitch_rates.png
         badges:
           - "Cosmic Explorer"
           - "GW Detectors"
@@ -302,7 +302,7 @@ params:
 
       - title: Bayesian modelling of scattered light in the LIGO interferometers
         content: Example text
-        image: /images/GW-icon.png
+        image: /images/bayesian_scattering.png
         badges:
           - "GW Detectors"
         links:
