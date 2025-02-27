@@ -257,7 +257,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Gravitational-wave Detector Science
+      - title: Gravitational-Wave Detector Science
         #content: Stuff with detectors
         #url: https://example.com
         image: /images/Hanford_aerial_crop.png
