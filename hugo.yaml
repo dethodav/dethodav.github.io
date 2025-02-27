@@ -188,7 +188,7 @@ params:
         companyUrl: "https://www.ligo.caltech.edu"
         date: "2019 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
         info:
@@ -201,7 +201,7 @@ params:
         companyUrl: "https://gravitationalwaves.syracuse.edu"
         date: "2015 - 2019"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
          I was a graduate researcher at Syracuse University working with Peter Saulson.
