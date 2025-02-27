@@ -136,7 +136,7 @@ params:
     #intro: "Hi, my name is"
     title: "Precision gravitational-wave astronomy"
     #subtitle: "Precision gravitational-wave astronomy"
-    content: "I do astrophysics with gravitational waves"
+    content: "Exploring the gravitational-wave universe with LIGO"
     image: /images/ligo20160211_Tn.jpg
     bottomImage:
       enable: true
@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "CV"
-      url: "/cv.pdf"
+      url: "/cv_dedavis.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -169,17 +169,12 @@ params:
     content: |-
       I am a senior postdoctoral scholar at the California Institute of Technology working with the LIGO Laboratory.
 
-      I am currently working on how to do better GW science.
+      I am currently working on how to improve our understanding of the universe with data from gravitational-wave detectors.
     skills:
       enable: true
       title: "Tools used in my research include:"
       items:
         - "Bayesian Statistics"
-        - "More"
-        - "Test"
-        - "Science"
-        - "Math"
-        - "Something"
 
   # Experience
   experience:
@@ -194,7 +189,10 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a scientist at the LIGO Laboratory in Pasadena, CA."
+        info:
+          enable: true
+          content: Senior Postdoctoral Scholar
+        content: "I am currently working as a researcher at the LIGO Laboratory in Pasadena, CA."
 
       - job: "Graduate Researcher"
         company: "Syracuse University"
@@ -203,14 +201,10 @@ params:
         featuredLink:
           enable: true
           url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
         content: |
-         I was a scientist.
+         I was a graduate researcher at Syracuse University working with Peter Saulson.
 
-          - Something
-          - Even more
+        #  - Additional notes coming soon
 
   # Education
   education:
@@ -224,24 +218,24 @@ params:
           url: "https://www.syracuse.edu"
         date: "2015 - 2019"
         #GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        #content: |-
+        #  Extracurricular Activities
+        #    - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #    - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Bachelors in Physics and Mathematics"
         school:
           name: "University of Chicago"
           url: "https://uchicago.edu"
         date: "2011 - 2015"
         #GPA: "3.9 out of 5.0"
-        content: |-
-          I published two papers in journals.
-          - [Example link](https://example.com)
-          - More stuff
+        #content: |-
+        #  I published two papers in journals.
+        #  - [Example link](https://example.com)
+        #  - More stuff
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        #  Extracurricular Activities
+        #    - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #    - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         #featuredLink:
         #  enable: true
         #  name: "My academic record"
@@ -253,21 +247,16 @@ params:
     # title: "Custom Name"
     items:
       - title: Gravitational-wave Detector Science
-        content: Stuff with detectors
+        #content: Stuff with detectors
         url: https://example.com
         image: /images/Hanford_aerial_crop.png
       - title: Astrophysical Analysis Methods
-        content: Astro
+        #content: Astro
         image: /images/GW150914.jpg
       - title: Gravitational-Wave Event Catalogs
-        content: GWTC
+        #content: GWTC
         url: "https://example.com"
         image: /images/GWcatalog.jpg
-      #- title: Additional topic
-      #  content: We are developed a product which can help others.
-      #- title: Even more
-      #  content: Contributed to a open source project.
-      #  url: https://example.com
 
   # projects
   projects:
@@ -275,7 +264,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Guiding interferometer improvements with the frequency-dependent inspiral range
-        content: Example text
+        content: Davis and Capote (2025)
         image: /images/normalized_range_diff.png
         #featured:
         #  name: Demo
@@ -288,7 +277,7 @@ params:
             url: https://arxiv.org/abs/2502.07253
 
       - title: Technical Noise, Data Quality, and Calibration Requirements for Next-Generation Gravitational-Wave Science
-        content: Example text
+        content: Capote, Dartez, and Davis. Class. Quantum Grav. 41, 185001 (2024)
         image: /images/CE_glitch_rates.png
         badges:
           - "Cosmic Explorer"
@@ -301,7 +290,7 @@ params:
             url: https://arxiv.org/abs/2404.04761
 
       - title: Bayesian modelling of scattered light in the LIGO interferometers
-        content: Example text
+        content: Udall and Davis. Appl. Phys. Lett. 122, 094103 (2023)
         image: /images/bayesian_scattering.png
         badges:
           - "GW Detectors"
