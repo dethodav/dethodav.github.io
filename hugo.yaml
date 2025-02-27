@@ -150,7 +150,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: ai ai-orcid
-          url: https://orcid.org/my-orcid?orcid=0000-0001-5620-6751
+          url: https://orcid.org/0000-0001-5620-6751
         - icon: ai ai-google-scholar
           url: https://scholar.google.com/citations?user=8Gw1YrAAAAAJ&hl=en
         - icon: fab fa-github
@@ -170,6 +170,7 @@ params:
       I am a senior postdoctoral scholar at the California Institute of Technology working with the LIGO Laboratory.
 
       I currently reseach how to improve our understanding of the universe with data from gravitational-wave detectors.
+      I am a member of the LIGO Scientific Collaboraton and the Cosmic Explorer Consortium, but also conduct research across the spectrum of gravitational waves. 
     skills:
       enable: false
       title: "Tools used in my research include:"
