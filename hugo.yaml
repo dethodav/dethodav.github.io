@@ -375,6 +375,7 @@ params:
         #image: /images/
         badges:
           - "Citizen Science"
+          - "Machine Learning"
           - "GW Detectors"
         links:
           - icon: ai ai-doi
