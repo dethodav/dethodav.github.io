@@ -258,14 +258,14 @@ params:
     items:
       - title: Gravitational-wave Detector Science
         #content: Stuff with detectors
-        url: https://example.com
+        #url: https://example.com
         image: /images/Hanford_aerial_crop.png
       - title: Astrophysical Analysis Methods
         #content: Astro
         image: /images/GW150914.jpg
       - title: Gravitational-Wave Event Catalogs
         #content: GWTC
-        url: "https://example.com"
+        #url: "https://example.com"
         image: /images/GWcatalog.jpg
 
   # projects
