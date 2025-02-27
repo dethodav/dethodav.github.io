@@ -175,8 +175,8 @@ params:
       title: "Tools used in my research include:"
       items:
         - "Python"
-        - "High Throughput Computing"
         - "Bayesian Statistics"
+        - "High Throughput Computing"
 
   # Experience
   experience:
