@@ -171,6 +171,8 @@ params:
 
       I currently reseach how to improve our understanding of the universe with data from gravitational-wave detectors.
       I am a member of the LIGO Scientific Collaboraton and the Cosmic Explorer Consortium, but also conduct research across the spectrum of gravitational waves. 
+
+      I will be starting at the University of Rhode Island as an assistant professor in the fall of 2025.
     skills:
       enable: false
       title: "Tools used in my research include:"
@@ -185,6 +187,20 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Assistant Professor of Astrophysics"
+        company: "University of Rhode Island"
+        companyUrl: "https://web.uri.edu/gravity/"
+        date: "Starting Fall 2025"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        info:
+          enable: false
+          content: Assistant Professor of Astrophysics
+        content: |
+          I will be starting at the University of Rhode Island as an assistant professor in the fall of 2025, working with the gravity research group. 
+
       - job: "Senior Postdoctoral Scholar"
         company: "LIGO Caltech"
         companyUrl: "https://www.ligo.caltech.edu"
